@@ -1,9 +1,10 @@
-# IASC 2P02 | Alex Christie
+# IASC 2P02 | Jeremy Bone
 
-### About me
+## Abandon All Hope...
 
-I am an Assistant Professor in Digital Humanities in the Centre for Digital Humanities at Brock University. My research interests include 3D geospatial expression, interactive reading environments, digital pedagogy, and pre-digital approaches to the procedural production and interpretation of literature.
+I am a student, gamer, streamer and (currently for school) producer working with all things gaming-related. I have a particular interest in how the whole of a design or how the mechanics, art, narrative, characterisation, controls, GUI and every damned aspect of an interactive work support or sabotage one another.
 
-### Blog post
+### First Academic Blog Post
+In which the author tries to argue that comprehensibility is more important to academics than perfect representation.
 
 [continue reading](blog)
