@@ -7,9 +7,9 @@ I am a student, gamer, streamer and (currently for school) producer working with
 ### First Academic Blog Post
 In which the author tries to argue that comprehensibility is more important to academics than perfect representation.
 
-[continue reading](blog)
+[continue reading](blog.md)
 
 ### Pecha Kucha Presentation
 A look back at a forgotten piece of gaming history.
 
-[continue reading](slideshow)
+[continue reading](reveal/index.html)
