@@ -20,6 +20,14 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 
 Donec semper convallis justo, in semper quam commodo nec. Vivamus sodales turpis in erat elementum semper. Proin interdum venenatis risus vel facilisis. Phasellus fermentum turpis purus, ac commodo est cursus eget. Aenean dictum purus nec porttitor tincidunt. Phasellus porttitor vehicula quam nec dapibus. Suspendisse quam odio, tristique sed odio eu, egestas venenatis sapien. Sed lacus magna, mollis tincidunt dignissim eu, euismod in dui. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed semper, elit sit amet luctus condimentum, justo libero sollicitudin orci, vel iaculis sapien libero id magna. Aliquam varius dui sed magna pharetra tempor. Vivamus ut posuere purus, vitae mattis justo. Donec efficitur gravida scelerisque. Nam dapibus nec ipsum sed volutpat. Aliquam efficitur nulla ipsum, vel congue turpis egestas nec.
 
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 100%; height: 600px' src='//voyant-tools.org/?view=Cirrus&visible=25&corpus=5c3a8136982df824fa6c118a2e6254a1'></iframe>
+
 Proin vel convallis dolor. Curabitur dignissim et arcu at efficitur. Cras sollicitudin id libero sit amet bibendum. Sed venenatis elementum felis, ut auctor nisl molestie porta. In hac habitasse platea dictumst. Vivamus ultricies turpis eu imperdiet varius. Phasellus eget consectetur dolor, id bibendum massa.
 
 Nam id porta mi. Phasellus ullamcorper, orci sit amet egestas volutpat, ligula mi cursus sem, eget varius lectus metus vitae est. Fusce id nulla purus. Sed convallis ligula a libero congue tempus. Praesent quis luctus nulla. Phasellus eget pretium nibh, vel efficitur ante. Donec nisi enim, pulvinar eget enim vel, porta dapibus sapien. Nulla bibendum nunc eget ornare tempor. Morbi nec ex ultrices, aliquam massa eget, suscipit ipsum. Vestibulum ut urna nunc. Pellentesque tempus sed tellus a tempor. Vestibulum eu dapibus dui.
@@ -30,4 +38,8 @@ Ut quis orci sapien. Nunc suscipit libero at erat elementum euismod. Proin moles
 
 ## Works Cited
 
-...
+Drucker, J. (2011). Humanities Approaches to Graphical Display. Digital Humanities Quarterly, 5(1).
+
+Jessop, M. (2008). Digital visualization as a scholarly activity. Literary & Linguistic Computing, 23(3), 281. `doi:10.1093/llc/fqn016`
+
+Moretti, F. (2003). Graphs, maps, trees. New Left Review, (24), 67. 
