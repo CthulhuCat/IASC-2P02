@@ -54,4 +54,4 @@ A look back at a forgotten piece of gaming history.
 ## Academic Blog
 In which the author tries to argue that graphs shouldn't, and generally cannot, exist on their own (but can always be improved).
 
-[Graphic Misconduct](blog.md)
+[Graphic Misconduct](blog.md) 
