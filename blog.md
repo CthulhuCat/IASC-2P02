@@ -27,6 +27,6 @@ From that perspective we can also consider that graphs themselves are fairly rec
 
 Drucker, J. (2011). Humanities Approaches to Graphical Display. Digital Humanities Quarterly, 5(1).
 
-Jessop, M. (2008). Digital visualization as a scholarly activity. Literary & Linguistic Computing, 23(3), 281. `doi:10.1093/llc/fqn016`
+Jessop, M. (2008). Digital visualization as a scholarly activity. Literary & Linguistic Computing, 23(3), 281.
 
 Moretti, F. (2003). Graphs, maps, trees. New Left Review, (24), 67. 
