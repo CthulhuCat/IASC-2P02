@@ -12,22 +12,30 @@ Jeremy's goal is to push research involving interactive works to look deeper and
 
 ## Featured Project
 
-### "Palladio Collaborative Analysis"
+### "Research Presentation"
 
-![](images/words-palladio.jpg)
+![](images/genesis--sega_channel.jpg)
 
 **Abstract**
-a
+aaaaa bbbbb
 
 **Research Process**
-a
+aaaaa bbbbb
 
-**View ["title"](reveal/index.html)**
+**View ["A Forgotten Pioneer"](reveal/index.html)**
 
 
 
 ## Collaborative Project
-A brief analysis of the data analysis tool Palladio.
+A brief investigation of the data analysis tool Palladio.
+![](images/modal-palladio.jpg)
+
+**Project Description**
+Done with Aaron Coomber, Kevin Pendergast and Ellen Thornton (three fellow students in the Winter 2017 course Solving Problems Through Interactive Arts & Science) this project required the creation of a presentation about the chosen data analysis tool. 
+![](images/slide-palladio.jpg) ![](images/notes-palladio.jpg)
+
+**Collaboration Statement**
+
 
 [Palladio](https://docs.google.com/presentation/d/1a0jso1aSNNPia4ZIeGlJufw79F4bDrGWeB_Xh2YfusY/pub?start=false&loop=false&delayms=30000)
 
