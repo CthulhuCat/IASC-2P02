@@ -4,10 +4,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a nulla qui
 
 Donec eu purus quis nisi dapibus efficitur. Morbi aliquet urna justo, eu facilisis lorem dictum eu. Donec ac dictum libero, nec dictum elit. Aenean interdum felis sit amet turpis tincidunt dictum. Etiam augue enim, facilisis et vehicula quis, consectetur sit amet nisl. Aenean efficitur ligula tellus, eu ultrices sem imperdiet vitae. Pellentesque est eros, egestas ut mattis ac, blandit ac purus. Suspendisse venenatis eros et posuere lacinia. Aenean libero nibh, sagittis vitae suscipit et, accumsan id sem. Donec feugiat nulla at turpis facilisis dictum. Donec elit arcu, tincidunt id tristique eu, varius nec ipsum. Aliquam id auctor lorem, vel scelerisque eros. Nullam facilisis ligula at pellentesque dignissim.
 
-<!--	Exported from Voyant Tools: http://voyant-tools.org/.
-Please note that this is an early version and the API may change.
-Feel free to change the height and width values below: -->
-<iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?bins=5&view=Trends&corpus=7b0df2023ae74f61f819130d82b8961c'></iframe>
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 100%; height: 600px' src='//voyant-tools.org/?view=Trends&query=graphical&query=time&query=information&query=data&query=humanistic&query=interpretation&query=display&query=space&withDistributions=raw&docIndex=0&mode=document&corpus=5c3a8136982df824fa6c118a2e6254a1'></iframe>
 
 Donec in facilisis metus. Ut hendrerit ex in ex ultrices, sit amet consectetur dolor vestibulum. Nunc sodales eu sem in vulputate. Praesent non aliquam risus. Aliquam ac magna fermentum, vehicula ante vitae, gravida erat. Nullam mauris magna, lobortis mattis nisi et, elementum fringilla libero. Donec tristique magna eget velit aliquam lobortis. Proin aliquam tempus sagittis. Sed mollis euismod finibus. Donec congue dolor a interdum tempus. In semper mollis quam congue volutpat. Nunc ac lobortis dolor. Quisque vel massa condimentum, lacinia lectus in, mattis quam. Praesent vitae mollis risus, in dapibus leo. Curabitur nibh orci, imperdiet id laoreet at, tempor in tortor. Aliquam justo massa, accumsan ac eros non, egestas posuere orci.
 
