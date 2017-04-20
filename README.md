@@ -32,7 +32,7 @@ A brief investigation of the data analysis tool Palladio.
 
 **Project Description**
 Done with Aaron Coomber, Kevin Pendergast and Ellen Thornton (three fellow students in the Winter 2017 course Solving Problems Through Interactive Arts & Science) this project required the creation of a presentation about the chosen data analysis tool. 
-![](images/slide-palladio.jpg) ![](images/notes-palladio.jpg)
+<span>![](images/slide-palladio.jpg) ![](images/notes-palladio.jpg)</span>
 
 **Collaboration Statement**
 
