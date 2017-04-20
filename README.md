@@ -9,11 +9,12 @@ Jeremy's current works demonstrate attention to structure as well as content, an
 
 Jeremy's goal is to push research involving interactive works to look deeper and further so, while still acknowledging the common interests and subjects in their study, analysis can move away from focusing on only a fraction of the whole of any particular work.
 
-### Featured Project
 
-### "Title"
+## Featured Project
 
-![](images/manatees.jpg)
+### "Palladio Collaborative Analysis"
+
+![](images/words-palladio.jpg)
 
 **Abstract**
 a
@@ -22,6 +23,7 @@ a
 a
 
 **View ["title"](reveal/index.html)**
+
 
 
 ## Collaborative Project
