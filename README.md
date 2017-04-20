@@ -17,10 +17,16 @@ My goal is to push research involving interactive works to look deeper and furth
 ![](images/genesis--sega_channel.jpg)
 
 **Abstract**
-aaaaa bbbbb
+The purpose of this work was to investigate a piece of forgotten or outmoded technology. The first part of my research was finding candidates. I relied on several gaming publications which had done articles about forgotten technology as they gave me options while allowing comparisons between them. In doing my research I happened across the Sega Channel and decided to showcase this precursor to modern game distribution networks like Steam or XBox Live. Once I had my subject I delved deeper, looking for records of older articles, publications or even advertisements which allowed me to get the whole picture. I found parallels in both function and design were apparent: the design was meant to appeal to the tastes and styles of the time, there was a selection of game demos available, a subscription gave access to playable full games and it had news about new releases on and off the Channel.
+
+Interestingly the technology used by the device and service hadn't evolved much over time; it used the same cable-based data systems now used for broadband internet access. Despite offering a service which didn't have an equal at its time the product was discontinued after a few years as people lost interest and newer gaming systems became available. Another problem with the system could be that it was one-way communication which didn't include any ability to communicate with other players using the service itself. As a pioneer in its field the Sega Channel was worth researching to see not only the technology's evolution but how the interest of the target audience was gained or lost.
 
 **Research Process**
-aaaaa bbbbb
+
+•
+A  250 word statement describing how this research evolved over time. This statement should describe 
+the revisions you made to the existing work based on instructor feedback. It should also explain how 
+your understanding of the field evolved based on the work undertaken
 
 **View ["A Forgotten Pioneer"](reveal/index.html)**
 
