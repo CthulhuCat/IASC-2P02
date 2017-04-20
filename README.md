@@ -16,8 +16,7 @@ My goal is to push research involving interactive works to look deeper and furth
 
 ![](images/genesis--sega_channel.jpg)
 
-**Abstract**
-
+**Abstract**  
 The purpose of this work was to investigate a piece of forgotten or outmoded technology. The first part of my research was finding candidates. I relied on several gaming publications which had done articles about forgotten technology as they gave me options while allowing comparisons between them. In doing my research I happened across the Sega Channel and decided to showcase this precursor to modern game distribution networks like Steam or XBox Live. Once I had my subject I delved deeper, looking for records of older articles, publications or even advertisements which allowed me to get the whole picture. I found parallels in both function and design were apparent: the design was meant to appeal to the tastes and styles of the time, there was a selection of game demos available, a subscription gave access to playable full games and it had news about new releases on and off the Channel.
 
 Interestingly the technology used by the device and service hadn't evolved much over time; it used the same cable-based data systems now used for broadband internet access. Despite offering a service which didn't have an equal at its time the product was discontinued after a few years as people lost interest and newer gaming systems became available. Another problem with the system could be that it was one-way communication which didn't include any ability to communicate with other players using the service itself. As a pioneer in its field the Sega Channel was worth researching to see not only the technology's evolution but how the interest of the target audience was gained or lost.
@@ -35,12 +34,12 @@ Overall I didn't receive much feedback on the presentation, or at least not much
 A brief investigation of the data analysis tool Palladio.
 ![](images/modal-palladio.jpg)
 
-**Project Description**
+**Project Description**  
 Done with Aaron Coomber, Kevin Pendergast and Ellen Thornton (three fellow students in the Winter 2017 course Solving Problems Through Interactive Arts & Science) this project required the creation of a presentation about the chosen data analysis tool. Palladio was chosen because of its focus on piecing together patterns from diverse or incomplete data. Using the tool we created a simple demonstration of how to link people using different pieces of personal information such as death, birth, subject or location and how the different mapping tools Palladio had available allowed different interpretations or patterns to emerge. Overall we found that the tool was useful for what it was intended, historical mapping and analysis, and as a presentation aid.
 
 <p><a href="images/slide-palladio.jpg"><img src="images/slide-palladio.jpg" width="50%"></a><a href="images/notes-palladio.jpg"><img src="images/notes-palladio.jpg" width="50%"></a></p>
 
-**Collaboration Statement**
+**Collaboration Statement**  
 The group's approach was to look over the Palladio tool, discuss what we each observed and how it was relevant to fulfilling the assignment, divide the required information into parts and finally have each member choose one of the parts to contribute to the final slideshow and presentation. I prefer to approach collaborative work in much the same way: have each person involved contribute according to their area of knowledge. Making this work definitely requires communication both to ensure nothing is left out or forgotten and so that every collaborator can understand how their own work fits into the whole. My own contribution, the analysis and application of theory to the tool and its use, was chosen because I knew I could do the job. It was important to communicate with the others so that I had their observations and experience with the tool to build the analysis off of. The use of Google Drive helped everyone to communicate and put their contributions directly into the slideshow; as I wasn't feeling well I made sure to leave extensive notes for my slide so that the others could still present that section.
 
 Collaboration works well with my own philosophy regarding the digital humanities. Because I try to focus on understanding the whole of a work it's very helpful to be able to see each person's knowledge and where it connects with the others. As the digital humanities themselves are cross-disciplinary and created from very different skillsets learning to collaborate on a project is very important. Such collaboration also allows me to learn from other contributors and expand my own knowledge and expertise.
