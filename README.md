@@ -2,9 +2,9 @@
 
 ### Bio
 
-![](CthulhuStars-Span.jpg)
+![](images/CthulhuStars-Span.jpg)
 
-I am a student, gamer, streamer and (currently for school) producer working with all things gaming-related. I have a particular interest in how the whole of a design or how the mechanics, art, narrative, characterisation, controls, GUI and every damned aspect of an interactive work support or sabotage one another.
+Currently entering his fourth and final year in Interactive Arts and Sciences at Brock University, Jeremy has been working towards 
 
 ### Featured Project
 
