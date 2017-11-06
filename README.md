@@ -1,4 +1,4 @@
-# IASC 2P02 | Jeremy Bone
+# Professional Portfolio | Jeremy Bone
 
 ### Bio
 ![](images/CthulhuStars-Span.jpg)
