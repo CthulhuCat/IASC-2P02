@@ -7,7 +7,7 @@ Currently in my fourth and final year in Interactive Arts and Sciences at Brock 
 
 My current works demonstrate attention to structure as well as content, an application of my focus. In the analytical assignments which make up the bulk of university I tend to adopt a very critical angle. This critical focus doesn't limit itself to the content or arguements but also takes apart the language and structure of the piece itself. In university this criticism is usually limited to the work itself and does not, or cannot, include the larger impacts of the texts. So, admittedly, they are not excellent examples of my wholistic approach.
 
-My goal is to push research involving interactive works to look deeper and further so, while still acknowledging the common interests and subjects in their study, analysis can move away from focusing on only a fraction of the whole of any particular work.
+My goal is to use this focus on theory and construction to design better inter-marriages of game systems and narrative. To ensure I have the tools and experience needed to guide my design I have been working on project management skills. It is important to ahve a realistic idea of what can be accomplished and how long, or how expensive, the project might be.
 
 
 ## Featured Project
