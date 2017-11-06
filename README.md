@@ -30,8 +30,17 @@ Overall I didn't receive much feedback on the presentation, or at least not much
 
 **View ["A Forgotten Pioneer"](reveal/index.html)**
 
-## "Article Analysis" Trolling As Provocation
+## "Proposal Brief" Creation and Publishing of a Desktop RPG
+A full proposal and breakdown of a fictional project.
+![](images/PropBrief.jpg)
 
+**Project Description**
+This is a full project proposal created to demonstrate an understanding of project management theory and organization. I was required to create a product and then make a detailed proposal as if pitching it to prospective investors. In order to do this I had to look closely as the proposed project's scope, deliverables, risks and requirements to work out what resources would be required. Once the base needs were determined a breakdown of workflow was created, with a careful eye on task dependancies, after which a gantt chart was used to show when deliverables could be completed by. This proposal was surprisingly simple to do once everything about the project was carefully organized and accounted for. This first foray into project management served me well in later production roles.
+
+**View ["Proposal Brief"](Proposal-Brief_Jeremy-Bone.pdf)**
+
+## "Article Analysis" Trolling As Provocation
+Understanding and presenting theories.
 ![](images/TrollProv.jpg)
 
 **Project Description**
