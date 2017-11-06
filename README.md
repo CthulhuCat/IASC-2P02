@@ -1,4 +1,4 @@
-# Professional Portfolio | Jeremy Bone
+# Bio, Projects and Experience
 
 ### Bio
 ![](images/CthulhuStars-Span.jpg)
