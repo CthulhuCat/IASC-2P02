@@ -3,7 +3,7 @@
 ### Bio
 ![](images/CthulhuStars-Span.jpg)
 
-Currently entering my fourth and final year in Interactive Arts and Sciences at Brock University my focus has always been on ludonarrative construction -- how the design of an interactive work can support or change its message and experience. The idea is to always look at the whole of a construct and how its many parts affect the final form. By extension I'd want to expand into studying the further impact interactive works have on the user and how they then affect society; again focusing on the whole but extending its reach. The goal is to follow the chain of interpretation and influence from design all the way up to culture.
+Currently in my fourth and final year in Interactive Arts and Sciences at Brock University my focus has always been on ludonarrative construction -- how the design of an interactive work can support or change its message and experience. The idea is to always look at the whole of a construct and how its many parts affect the final form. By extension I'd want to expand into studying the further impact interactive works have on the user and how they then affect society; again focusing on the whole but extending its reach. The goal is to follow the chain of interpretation and influence from design all the way up to culture.
 
 My current works demonstrate attention to structure as well as content, an application of my focus. In the analytical assignments which make up the bulk of university I tend to adopt a very critical angle. This critical focus doesn't limit itself to the content or arguements but also takes apart the language and structure of the piece itself. In university this criticism is usually limited to the work itself and does not, or cannot, include the larger impacts of the texts. So, admittedly, they are not excellent examples of my wholistic approach.
 
@@ -12,7 +12,9 @@ My goal is to push research involving interactive works to look deeper and furth
 
 ## Featured Project
 
-### "Research Presentation"
+
+
+## "Research Presentation"
 
 ![](images/genesis--sega_channel.jpg)
 
@@ -28,7 +30,14 @@ Overall I didn't receive much feedback on the presentation, or at least not much
 
 **View ["A Forgotten Pioneer"](reveal/index.html)**
 
+## "Article Analysis" Trolling As Provocation
 
+![](images/TrollProv.jpg)
+
+**Project Description**
+This was a close analysis of an article relating to the act of trolling, or provoking others in an online environment, and what benefits it may actually have. The purpose of the analysis was to break down the theory so it could be presented to a group of people and explained. To this end I used a series of slides to draw attention to the main points and ideas. The challenge of this presentation was the theory itself: trying to convince the audience that the act of "trolling" could have positive effects for online cultures.
+
+**View ["Trolling as Provocation"](https://docs.google.com/presentation/d/e/2PACX-1vTSIC0k_q0v2inm26XSX3qGGxAuHtQziAPMt1onMMyZLNv-xrehUyDo9vHRvGwcJQWWzuDuWNjvSywr/pub?start=false&loop=false&delayms=10000)**
 
 ## Collaborative Project
 A brief investigation of the data analysis tool Palladio.
