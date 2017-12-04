@@ -12,9 +12,9 @@ My goal is to use this focus on theory and construction to design better inter-m
 
 ## Featured Project
 
-![](TempleHeader.png)
-
 ## "The Temple Under The Soil"
+
+![](TempleHeader.png)
 
 **Purpose**
 This is the result of an exercise in understanding and practicing game design. The goal was to create a short dungeon for use with the Labyrinth Lord tabletop game system (an adaptation of the original Dungeons & Dragons). After the dungeon was completed it was to be run by its creator in a short game session with other designers. Parts of the process involved random generation of certain dungeon features which I then had to work with and elaborate on.
