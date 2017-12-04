@@ -1,7 +1,7 @@
 # Bio, Projects and Experience
 
 ### Bio
-![](images/CthulhuStars-Span.jpg)
+![](images/Design-GameFlow.jpg)
 
 Currently in my fourth and final year in Interactive Arts and Sciences at Brock University my focus has always been on ludonarrative construction -- how the design of an interactive work can support or change its message and experience. The idea is to always look at the whole of a construct and how its many parts affect the final form. By extension I'd want to expand into studying the further impact interactive works have on the user and how they then affect society; again focusing on the whole but extending its reach. The goal is to follow the chain of interpretation and influence from design all the way up to culture.
 
