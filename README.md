@@ -3,30 +3,45 @@
 ### Bio
 ![](images/Design-GameFlow.jpg)
 
-Currently in my fourth and final year in Interactive Arts and Sciences at Brock University my focus has always been on ludonarrative construction -- how the design of an interactive work can support or change its message and experience. The idea is to always look at the whole of a construct and how its many parts affect the final form. By extension I'd want to expand into studying the further impact interactive works have on the user and how they then affect society; again focusing on the whole but extending its reach. The goal is to follow the chain of interpretation and influence from design all the way up to culture.
+During my time in Interactive Arts and Sciences at Brock University my focus was always on ludonarrative construction -- how the design of an interactive work can support or change its message and experience. The way I create or improve any work is to look at the whole of a construct and how its many parts affect the final form. By extension I'd want to expand into studying the further impact interactive works have on the user and how they then affect society; again focusing on the whole but extending its reach. The goal is to follow the chain of interpretation and influence from design all the way up to culture.
 
-My current works demonstrate attention to structure as well as content, an application of my focus. In the analytical assignments which make up the bulk of university I tend to adopt a very critical angle. This critical focus doesn't limit itself to the content or arguements but also takes apart the language and structure of the piece itself. In university this criticism is usually limited to the work itself and does not, or cannot, include the larger impacts of the texts. So, admittedly, they are not excellent examples of my wholistic approach.
+My recent works demonstrate attention to structure as well as content, an application of my focus. In the analytical assignments which made up the bulk of university I tend to adopt a very critical angle. This critical focus doesn't limit itself to the content or arguements but also takes apart the language and structure of the piece itself. In university this criticism was usually limited to the work itself and did not, or could not, include the larger impacts of the texts. So, admittedly, they are not excellent examples of my wholistic approach.
 
-My goal is to use this focus on theory and construction to design better inter-marriages of game systems and narrative. To ensure I have the tools and experience needed to guide my design I have been working on project management skills. It is important to ahve a realistic idea of what can be accomplished and how long, or how expensive, the project might be.
+My goal is to use this focus on theory and construction to design better inter-marriages of game systems and narrative. To ensure I have the tools and experience needed to guide my design I have been working on project management skills. It is important to have a realistic idea of what can be accomplished and how long, or how expensive, the project might be.
 
 
 ## Featured Project
+
+## Stop Running!
+
+![](images/SRHeader.jpg)
+
+# Winner of the LevelUp 2018 People's Choice Award
+
+**Project Description**
+
+This game was developed with a team of fellow fourth-year students in the Interactive Arts and Science program at Brock University. The goal was to make a game of our own design in an eight-month period. Each team member made a proposal and from those we decided what type of game to make and what features we wanted it to have. The final product is a four-player competitive game with a focus on fast-paced action and strategy. The goal of the game was kept simple: players avoid the non-player enemy character until they are the last one left. The three rounds of play each feature a unique level design with different traps and obstacles, some of which are activated by players, with points awarded depending on the order the players are knocked out.
+
+**Role**
+
+As a member of the Design team I was responsible for building and refining the systems within the game itself. Some of the game systems included character abilities and balance, enemy behaviour, trap/obstacle effects, the scoring system and the potion system. Design was also responsible for overall game balance and determining the flow of play in order to keep the game experience simple and fast for the players. I also assisted with asset management within the game itself and marketing design for the materials used at the LevelUp showcase.
+
+
+**View ["Stop Running! by 4MonstersStudios"](https://4monstersstudios.itch.io/stop-running) on Itch.io**
+
+
 
 ## "The Temple Under The Soil"
 
 ![](images/TempleHeader.jpg)
 
 **Purpose**
-
 This is the result of an exercise in understanding and practicing game design. The goal was to create a short dungeon for use with the Labyrinth Lord tabletop game system (an adaptation of the original Dungeons & Dragons). After the dungeon was completed it was to be run by its creator in a short game session with other designers. Parts of the process involved random generation of certain dungeon features which I then had to work with and elaborate on.
 
 **Process**
-
 The first step was creating a simple map: twelve rooms that are all connected with a single entrance to the whole dungeon. I sketched out an idea I had for a crumbling temple. After I had a simple layout I added some features to make the dungeon interesting like a collapsed tower, rotting library and ambush points. Then the content of the rooms was randomly generated. Each room would have treasure, monsters, nothing or a unique feature. My results left me with several empty rooms, a few unique, two monsters and a single treasure room. With so many empty rooms I had to make sure there were enough details to keep the atmosphere and tension going so I added a lot of details and descriptions for players to look for. The unique rooms each hinted at the underlying history of the location and offered hints that clever players could use to find the treasure at the end. With only two monster rooms I made each an ambush which worked to the strengths of the monsters involved. The treasure, which I was lucky enough to get for the last room, had the only two traps in the dungeon just before it and after the last monster encounter. The goal was to punish players who were over-eager or thought the danger had passed. The overall design was refined and everyone seemed very happy playing through it.
 
 **View ["The Temple Under The Soil"](TempleWriteup.pdf)**
-
-
 
 ## "Research Presentation"
 
@@ -77,11 +92,6 @@ The group's approach was to look over the Palladio tool, discuss what we each ob
 Collaboration works well with my own philosophy regarding the digital humanities. Because I try to focus on understanding the whole of a work it's very helpful to be able to see each person's knowledge and where it connects with the others. As the digital humanities themselves are cross-disciplinary and created from very different skillsets learning to collaborate on a project is very important. Such collaboration also allows me to learn from other contributors and expand my own knowledge and expertise.
 
 [Palladio](https://docs.google.com/presentation/d/1a0jso1aSNNPia4ZIeGlJufw79F4bDrGWeB_Xh2YfusY/pub?start=false&loop=false&delayms=30000)
-
-## Research Presentation
-A look back at a forgotten piece of gaming history.
-
-[A Forgotten Pioneer](reveal/index.html)
 
 ## Academic Blog
 In which the author tries to argue that graphs shouldn't, and generally cannot, exist on their own (but can always be improved).
