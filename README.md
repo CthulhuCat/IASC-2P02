@@ -16,7 +16,7 @@ My goal is to use this focus on theory and construction to design better inter-m
 
 ![](images/SRHeader.jpg)
 
-# Winner of the LevelUp 2018 People's Choice Award
+### Winner of the LevelUp 2018 People's Choice Award
 
 **Project Description**
 
