@@ -1,5 +1,5 @@
 # Bio, Projects and Experience
-
+  
 ### Bio
 ![](images/Design-GameFlow.jpg)
 
@@ -8,7 +8,7 @@ During my time in Interactive Arts and Sciences at Brock University my focus was
 My recent works demonstrate attention to structure as well as content, an application of my focus. In the analytical assignments which made up the bulk of university I tend to adopt a very critical angle. This critical focus doesn't limit itself to the content or arguements but also takes apart the language and structure of the piece itself. In university this criticism was usually limited to the work itself and did not, or could not, include the larger impacts of the texts. So, admittedly, they are not excellent examples of my wholistic approach.
 
 My goal is to use this focus on theory and construction to design better inter-marriages of game systems and narrative. To ensure I have the tools and experience needed to guide my design I have been working on project management skills. It is important to have a realistic idea of what can be accomplished and how long, or how expensive, the project might be.
-
+  
 
 ## Featured Project
 
@@ -25,20 +25,20 @@ This game was developed with a team of fellow fourth-year students in the Intera
 **Role**
 
 As a member of the Design team I was responsible for building and refining the systems within the game itself. Some of the game systems included character abilities and balance, enemy behaviour, trap/obstacle effects, the scoring system and the potion system. Design was also responsible for overall game balance and determining the flow of play in order to keep the game experience simple and fast for the players. I also assisted with asset management within the game itself and marketing design for the materials used at the LevelUp showcase.
-
-
-**View ["Stop Running! by 4MonstersStudios"](https://4monstersstudios.itch.io/stop-running) on Itch.io**
-
-
-
+  
+  
+**View ["Stop Running! by 4MonstersStudios"](https://4monstersstudios.itch.io/stop-running) on Itch.io**  
+  
+  
+  
 ## "The Temple Under The Soil"
 
 ![](images/TempleHeader.jpg)
 
-**Purpose**
+**Purpose**  
 This is the result of an exercise in understanding and practicing game design. The goal was to create a short dungeon for use with the Labyrinth Lord tabletop game system (an adaptation of the original Dungeons & Dragons). After the dungeon was completed it was to be run by its creator in a short game session with other designers. Parts of the process involved random generation of certain dungeon features which I then had to work with and elaborate on.
 
-**Process**
+**Process**  
 The first step was creating a simple map: twelve rooms that are all connected with a single entrance to the whole dungeon. I sketched out an idea I had for a crumbling temple. After I had a simple layout I added some features to make the dungeon interesting like a collapsed tower, rotting library and ambush points. Then the content of the rooms was randomly generated. Each room would have treasure, monsters, nothing or a unique feature. My results left me with several empty rooms, a few unique, two monsters and a single treasure room. With so many empty rooms I had to make sure there were enough details to keep the atmosphere and tension going so I added a lot of details and descriptions for players to look for. The unique rooms each hinted at the underlying history of the location and offered hints that clever players could use to find the treasure at the end. With only two monster rooms I made each an ambush which worked to the strengths of the monsters involved. The treasure, which I was lucky enough to get for the last room, had the only two traps in the dungeon just before it and after the last monster encounter. The goal was to punish players who were over-eager or thought the danger had passed. The overall design was refined and everyone seemed very happy playing through it.
 
 **View ["The Temple Under The Soil"](TempleWriteup.pdf)**
