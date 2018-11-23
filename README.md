@@ -12,7 +12,7 @@ My goal is to use this focus on theory and construction to design better inter-m
 
 ## Featured Project
 
-## Stop Running!
+## "Stop Running!"
 
 ![](images/SRHeader.jpg)
 
